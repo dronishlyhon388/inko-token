@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+```
 contract InkoToken {
     string public name = "InkoToken";
     string public symbol = "INKO";
@@ -43,3 +44,4 @@ contract InkoToken {
         return true;
     }
 }
+```
